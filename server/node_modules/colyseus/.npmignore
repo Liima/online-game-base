@@ -1,0 +1,9 @@
+*.log
+colyseus-client
+*.psd
+NOTES.txt
+*~
+TODO
+*.psd
+header.png
+quick-tests
